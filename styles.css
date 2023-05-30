@@ -1,0 +1,49 @@
+table {
+    margin: auto;
+    border: 1px solid black;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 30%;
+    height: 70%;
+}
+th, td {
+    padding: 24px;
+}
+caption {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+p {
+    text-align: center;
+}
+.img_div {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font: 2em sans-serif;
+    font-style: oblique;
+}
+.button_div{
+    text-align: center;
+    border-radius: 2rem;
+}
+div.close{
+    text-align: center;
+    }
+    ol{
+        display: inline-block;
+        text-align: right;
+    }
+    button{
+        border-radius: 2rem;
+        background-color: blue;
+        color: white;
+        padding: 12px 24px;
+        border:none ;
+    }
+ol{
+    text-align: center;
+}
