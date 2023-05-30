@@ -1,12 +1,12 @@
 table {
     margin: auto;
+    width: 50%;
     border: 1px solid black;
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    width: 30%;
-    height: 70%;
+    
 }
 th, td {
     padding: 24px;
